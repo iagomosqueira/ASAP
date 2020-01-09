@@ -1,0 +1,23 @@
+Package: 
+Title: 
+Version: 
+Date: 
+Authors@R: c(person(given = '', family = '', role = c('aut'),
+            email = ''))
+Maintainer: 
+Description: 
+Depends:
+  methods,
+  FLCore
+Imports: 
+Additional_repositories: http://flr-project.org/R
+Suggests:
+    testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+License: 
+LazyLoad: Yes
+LazyData: No
+Roxygen: list(markdown = TRUE)
+BugReports: https://github.com/XX/XX/issues
